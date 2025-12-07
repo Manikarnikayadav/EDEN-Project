@@ -30,7 +30,6 @@ bash run_single_attacks.sh [pathToTrainData]  [pathToTestData] [xdays=15days] [d
   
 # Run FURIA, the federated user re-identification attack
 
-We provide an example of Privamov Dataset. Thus, here is the link for preprocessed data (feature vectors of non-obfuscated and obfuscated data previously generated): https://drive.google.com/drive/folders/1FGxqMLihNVD8rq7LCqg1UrnraUN_1cXS?usp=sharing
 
 The notebook includes : 
 
@@ -63,4 +62,4 @@ Khalfoun, B., Ben Mokhtar, S., Bouchenak, S., & Nitu, V. (2021). EDEN: Enforcing
 
 # Contact
 
-besma.khalfoun@insa-lyon.fr
+manikarnikayadav@gmail.com
